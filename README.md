@@ -1,5 +1,5 @@
 # 👋Helllo World! I'm Gustavo Marques👋
-
+![Image](https://github.com/user-attachments/assets/8b92c16d-2841-4830-9e7c-b49ebf6a44d4)
 ## Sobre Mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3° semestre)<br>
@@ -66,6 +66,7 @@
     title="HTML"
     style="padding-right: 10;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-![Image](https://github.com/user-attachments/assets/8b92c16d-2841-4830-9e7c-b49ebf6a44d4)
+/><br>
+
+
 
