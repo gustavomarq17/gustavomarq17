@@ -1,6 +1,5 @@
-![Image](https://github.com/user-attachments/assets/8b92c16d-2841-4830-9e7c-b49ebf6a44d4)
 # 👋Helllo World! I'm Gustavo Marques👋
-
+![Image](https://github.com/user-attachments/assets/8b92c16d-2841-4830-9e7c-b49ebf6a44d4)
 ## Sobre Mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3° semestre)<br>
