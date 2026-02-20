@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/53b61ae0-63d6-4713-815f-03c024b9e23c)
+https://github.com/user-attachments/assets/a516b64f-f429-4106-bad7-d6fd77c0e812
 
 # 👋Helllo World! I'm Gustavo Marques👋
 
